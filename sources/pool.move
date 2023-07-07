@@ -1,7 +1,4 @@
-// Copyright (c) Mysten Labs, Inc.
-// SPDX-License-Identifier: Apache-2.0
-
-/// Example implementation of a liquidity Pool for Sui.
+/// Implementation of a liquidity Pool for Sui.
 ///
 /// - Only module publisher can create new Pools.
 /// - For simplicity's sake all swaps are done with SUI coin.

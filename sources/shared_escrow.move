@@ -1,6 +1,3 @@
-// Copyright (c) Mysten Labs, Inc.
-// SPDX-License-Identifier: Apache-2.0
-
 /// An escrow for atomic swap of objects without a trusted third party
 module defi::shared_escrow {
     use std::option::{Self, Option};
